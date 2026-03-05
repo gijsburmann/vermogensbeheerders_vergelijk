@@ -1,6 +1,6 @@
-/Users/gijsb/wsp/gijsburmann/vermogensbeheerders_vergelijk/vergelijkingen/Ovm bevat een vergelijk van 3 vermogensbeheerders.
-Maak een vergelijkbare vergelijking en zit die in /Users/gijsb/wsp/gijsburmann/vermogensbeheerders_vergelijk/vergelijkingen/Claude.
-Maak gebruik van de input in /Users/gijsb/wsp/gijsburmann/vermogensbeheerders_vergelijk/vermogensbeheerders/*.*
-Stuctureer all informatie in een excel
-Geef aan welke informatie je mist in de antwoorden, maak deze cellen rood en vul ze in met een realistische aanname.
-Plot de excel data in dezelfde grafieken als /Users/gijsb/wsp/gijsburmann/vermogensbeheerders_vergelijk/vergelijkingen/Ovm/attachments/OVM Partners vergelijking vermogensbeheerders maart 2026.pdfß
+/Users/gijsb/wsp/gijsburmann/vermogensbeheerders_vergelijk/vergelijkingen/Ovm/*.* bevat een vergelijk van 3 vermogensbeheerders.
+Maak een vergelijkbare vergelijking en zet die in /Users/gijsb/wsp/gijsburmann/vermogensbeheerders_vergelijk/vergelijkingen/Claude.
+Maak gebruik van de antwoorden in /Users/gijsb/wsp/gijsburmann/vermogensbeheerders_vergelijk/vermogensbeheerders/*.*
+Stuctureer all informatie in 1 excel.
+Geef in deze excel aan welke informatie je mist in de antwoorden, maak deze cellen rood en vul ze in met een realistische aanname.
+Plot de excel data in dezelfde grafieken als /Users/gijsb/wsp/gijsburmann/vermogensbeheerders_vergelijk/vergelijkingen/Ovm/attachments/OVM Partners vergelijking vermogensbeheerders maart 2026.pdf
