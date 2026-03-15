@@ -1,0 +1,25 @@
+2026-03-07:
+38%	Vanguard Total Internatioinal Stock ETF
+62%	Vanguard Total Stock Market ETF
+
+Claude over dividendbelasting-verrekening
+Prompt:
+Ik overweeg 2400000 te beleggen (38%    Vanguard Total Internatioinal Stock ETF 62%    Vanguard Total Stock Market ETF) via Interactive Brokers (dus niet via Stoic).  Stoic schreef in een email "Aanvullend nog belangrijk bij het maken van een vergelijking met andere beheerders , bij een 100% aandelenportefeuille kan jaarlijks circa 0,30% aan ingehouden  dividendbelasting worden verrekend via de aangifte inkomstenbelasting (15% over ongeveer 2% dividend).  Deze fiscale teruggaaf is niet meegenomen in de nettorendementen op onze website." Kan ik hier iets mee als ik niet beleg via Stoic maar via Interactive Brokers? Zoja, kan je dan duidelijk uitleggen hoe dit werkt en door rekenen voor deze belegging
+
+Claude :
+Hoe het werkt
+Wanneer Amerikaanse ETF's (zoals VTI en VXUS) dividend uitkeren, houdt de VS aan de bron 15% dividendbelasting in op basis van het belastingverdrag Nederland-VS. Als Nederlands belastingplichtige betaal je in box 3 een forfaitair rendement over je vermogen. Die ingehouden Amerikaanse dividendbelasting mag je verrekenen met je box 3-belasting via je aangifte inkomstenbelasting — dit geldt ongeacht of je via Stoic of via Interactive Brokers belegt.
+De berekening voor jouw situatie
+Geschat bruto dividend:
+VTI heeft een dividendrendement van circa 1,3% en VXUS circa 3,0%. Gewogen naar jouw verdeling (62% VTI, 38% VXUS) komt dat uit op ongeveer 1,95% gemiddeld.
+Op €2.400.000 is dat circa €46.800 aan bruto dividend per jaar.
+Ingehouden Amerikaanse dividendbelasting (15%):
+15% van €46.800 = circa €7.020 per jaar.
+Verrekening in box 3:
+Dit bedrag van ~€7.020 kun je verrekenen met je verschuldigde box 3-belasting in je aangifte inkomstenbelasting, mits je voldoende box 3-belasting verschuldigd bent (wat bij €2,4M zeker het geval zal zijn).
+Dit komt neer op zo'n 0,29% van je belegd vermogen — wat overeenkomt met de ~0,30% die Stoic noemt.
+Belangrijk verschil: PRIIPS-regelgeving
+Er is wel een complicatie. Als EU-belegger kun je VTI en VXUS (Amerikaanse ETF's) waarschijnlijk niet rechtstreeks kopen vanwege de PRIIPS/KID-regelgeving. Interactive Brokers biedt soms een workaround via opties, maar als je Europese UCITS-alternatieven gebruikt (zoals VWCE of IWDA), werkt de dividendbelasting anders: bij Ierse UCITS-ETF's wordt het dividend intern herbelegd of al op fondsniveau verrekend, waardoor de directe verrekening via je aangifte inkomstenbelasting anders — en vaak minder gunstig — uitpakt.
+Samengevat
+Als je daadwerkelijk VTI en VXUS kunt kopen via Interactive Brokers, kun je dezelfde ~€7.000 per jaar aan dividendbelasting terugvragen via je aangifte. Die mogelijkheid staat los van Stoic. Bij Europese UCITS-alternatieven is de situatie fiscaal complexer en mogelijk minder voordelig op dit punt.
+Ik ben geen belastingadviseur — bij een vermogen van €2,4M is het verstandig dit met een fiscalist te bespreken, zeker rondom de keuze tussen Amerikaanse en Ierse ETF's en de gevolgen voor box 3. Maar het korte antwoord op je vraag: ja, de dividendbelastingverrekening is niet exclusief voor Stoic en werkt ook bij zelf beleggen.
